@@ -35,7 +35,7 @@ Follow [@webmakerApp](https://twitter.com/intent/follow?screen_name=webmakerApp)
 
 ### Support Web Maker
 
-Hi! I am Kushagra Gour. Web Maker is a free and open-source project. To keep myself motivated for working on such open-source and free [side projects](https://kushagragour.in/lab/), I have launched a [Patreon campaign](https://patreon.com/kushagra). Your pledge, no matter how small, will act as an appreciation towards my work and keep me going forward making Web Maker more awesome🔥.
+Hi! I am Kushagra Gour. Web Maker is a free and open-source project. To keep myself motivated for working on such open-source and free [side projects](https://kushagra.dev/lab), I have launched a [Patreon campaign](https://patreon.com/kushagra). Your pledge, no matter how small, will act as an appreciation towards my work and keep me going forward making Web Maker more awesome🔥.
 
 [![Become a patron](/src/assets/patreon.png)](https://patreon.com/kushagra)
 
@@ -48,4 +48,4 @@ Web Maker stays stable as rock with every release, thanks to the sponsored testi
 
 MIT Licensed
 
-Copyright (c) 2016-2019 Kushagra Gour, [webmakerapp.com](https://webmakerapp.com)
+Copyright (c) 2016-2021 Kushagra Gour, [webmakerapp.com](https://webmakerapp.com)
